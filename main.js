@@ -1,5 +1,5 @@
 const toDoList = []; //მასივის შემოტანა
-const tittleTodoList = []; //ჩემს მიერ შემოტანილი მასივი, title ებისთვის
+const tittleTodoList = []; //კიდევ მასივი
 const $input = document.getElementsByTagName("input")[0];
 const $button = document.getElementsByTagName("button")[0];
 const $ul = document.getElementsByTagName("ul")[0];
